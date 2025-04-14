@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="user_name">Evan Poster</string>
+    <string name="job_title">Aspiring Software Engineer</string>
+    <string name="phone_number">+1 234 567 8900</string>
+    <string name="social_media">\@eposter</string>
+    <string name="email_address">eposter@foobar.com</string>
+</resources>
